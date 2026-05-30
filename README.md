@@ -35,4 +35,5 @@ A implementação de ferramentas na empresa Zippy Farma tem como esperado uma re
 - Links de referência do AWS Architecture Center.
 
 Assinatura do Responsável pelo Projeto:
-Iury Guedes
+
+Iury G. Guedes
