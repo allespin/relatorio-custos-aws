@@ -1,4 +1,4 @@
-# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# Relatório de implementação de serviços AWS
 
 Data: 29 de Maio de 2026
 
@@ -34,6 +34,6 @@ A implementação de ferramentas na empresa Zippy Farma tem como esperado uma re
 - Documentação de Boas Práticas do AWS Cost Optimization Pillar.
 - Links de referência do AWS Architecture Center.
 
-Assinatura do Responsável pelo Projeto:
+Assinatura do responsável pelo projeto:
 
 Iury G. Guedes
